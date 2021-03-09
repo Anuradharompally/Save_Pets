@@ -32,6 +32,6 @@
     "web-push": "^3.3.5"
   },
   "devDependencies": {
-  "node":"15.3.0",
+  "node":"15.3.0"
    }
 }
