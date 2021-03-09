@@ -31,7 +31,10 @@
     "tinypng": "^0.1.1",
     "web-push": "^3.3.5"
   },
+   "engines": {
+    "node": "14.3.0"
+  }
   "devDependencies": {
-  "node":"15.3.0"
+ 
    }
 }
